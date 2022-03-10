@@ -1,1 +1,3 @@
 # odin-recipes
+In this Recipe , walk through basic HTML skillset from creating boilerplate , body , sementic element with attribute in HTML , Image, Link , 
+Workflow of Git basic command : git clone ,git remote-v, git status , git add , git commit -m , commit what you have changed. git log , git push, .....
